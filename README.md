@@ -74,3 +74,14 @@ You can also run the app directly from your IDE by pressing the "Run" button.
 The app uses `sqflite` for local storage. The database schema and sample data will be automatically initialized the first time you run the app. No manual setup is required.
 
 ## 🖼️ **Screenshots**
+
+<img width="1408" height="2974" alt="Screenshot_20250805_174517" src="https://github.com/user-attachments/assets/e3941dea-d462-4c00-8993-d80b43158a7d" />
+
+<img width="1408" height="2974" alt="Screenshot_20250805_174656" src="https://github.com/user-attachments/assets/c47ffe9b-a40c-40cd-be1e-56263bedeeb3" />
+
+<img width="1408" height="2974" alt="Screenshot_20250805_174729" src="https://github.com/user-attachments/assets/c1793521-715b-406e-9680-995cce128bb8" />
+
+<img width="1408" height="2974" alt="Screenshot_20250805_175411" src="https://github.com/user-attachments/assets/2be1de06-2c61-47fc-9a65-8bc27ebe9e8b" />
+
+<img width="1408" height="2974" alt="Screenshot_20250805_175459" src="https://github.com/user-attachments/assets/8be2d47e-f29e-4b8d-bb9b-cb3b0d56e48e" />
+
